@@ -1,4 +1,4 @@
-.. myentity documentation master file.
+.. vector_network_analyser documentation master file.
    You can adapt this file completely to your liking, 
    but it should at least contain the root `toctree` directive.
 
@@ -6,7 +6,7 @@
    :maxdepth: 3
    :caption: Contents:
 
-.. automodule:: myentity
+.. automodule:: vector_network_analyser
    :members:
    :undoc-members:
 
